@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @danimrangelb
-  Main account: @denyncrawford
+
+Main account: @denyncrawford
 
 <!---
 danimrangelb/danimrangelb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
